@@ -81,7 +81,3 @@ This project is open source and available under the [MIT License](LICENSE).
 - React: For building the user interface.
 - Next.js: For creating the server-side rendered React app.
 - Tailwind CSS: For utility-first CSS framework used for styling.
-
----
-
-Just replace `your-username` with your actual GitHub username and add the appropriate screenshot where needed. Let me know if you'd like to add or modify any sections!
